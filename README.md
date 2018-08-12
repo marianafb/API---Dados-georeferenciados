@@ -1,4 +1,4 @@
-# API - Dados georeferenciados
+# API - Dados geo-referenciados
 Dois códigos, no R, para encontrar as coordenadas geográficas de regiões ou pontos. Os códigos são referentes aos sites cepaberto e googlemaps.  
 
 # Código cepaberto
