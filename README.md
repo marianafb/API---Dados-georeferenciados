@@ -24,4 +24,6 @@ A partir dessa requisição usamos a função content para extrair as informaç�
 
 Por fim, retiramos as informações necessárias da lista e as colocamos em um dataframe.
 
+Note que se o CEP for inválido a função fromJSON retornará um erro. Para evitá-lo basta verificarmos o status da busca realizada. De modo que se este for válido   
+
 # Código googlemaps
