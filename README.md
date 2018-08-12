@@ -22,6 +22,6 @@ Com base nestas variáveis podemos usar a função GET para nos conectar ao site
 
 A partir dessa requisição usamos a função content para extrair as informações definidas como texto que estão no formato JSON. Assim, essa retornará um objeto também neste formato e para convertê-lo em um objeto do R (lista) usamos a função fromJSON.
 
-Por fim, retiramos as informações necessárias da lista dados e as colocamos em um dataframe.
+Por fim, retiramos as informações necessárias da lista e as colocamos em um dataframe.
 
 # Código googlemaps
