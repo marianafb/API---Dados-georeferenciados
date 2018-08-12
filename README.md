@@ -4,11 +4,11 @@ Dois códigos, no R, para encontrar as coordenadas geográficas de regiões ou p
 Código cepaberto
 
 Usar o API do site CEPaberto é simples, vamos precisar apenas de 2 pacotes:
-  -httr,
-  -rjson. 
+  - httr,
+  - rjson. 
 Além disso, usaremos as funções:
-  -GET, content (httr), 
-  -fromJSON (rjson). 
+  - GET, content (httr), 
+  - fromJSON (rjson). 
   
 Primeiro defina as seguintes variáveis
  - token: é uma chave de identificação pessoal fornecida pelo cepaberto quando você se cadastra no site.
